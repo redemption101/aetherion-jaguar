@@ -1,0 +1,6 @@
+{
+  "name": "Aetherion Interactive Jaguar",
+  "description": "An interactive supersonic dashboard powered by an Erlang actor backend simulated with Rust borrow mechanics and Pony reference capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
